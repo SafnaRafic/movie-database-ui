@@ -5,6 +5,9 @@ const constants = {
     movies: {
       list: baseUrl + "/movies/list",
     },
+    directors: {
+      list: baseUrl + "/directors/list",
+    },
   },
 };
 
